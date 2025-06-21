@@ -1,0 +1,29 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Conda environment folders (if created inside project)
+myenv/
+venv/
+.venv/
+perceptron-ui/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional but common)
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables or secrets
+*.env
+
+# Lock files (if used with conda-lock or pip)
+*.lock
